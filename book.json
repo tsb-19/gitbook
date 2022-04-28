@@ -1,0 +1,17 @@
+{
+    "plugins": [
+        "hide-element",
+        "chapter-fold",
+        "katex",
+        "alerts",
+        "emphasize",
+        "mermaid-gb3",
+        "codeblock-label",
+        "code",
+        "search-pro",
+        "click-reveal",
+        "expandable-chapters-interactive",
+        "localized-footer",
+        "intopic-toc"
+    ]
+}
