@@ -1,9 +1,8 @@
 {
     "plugins": [
-        "-lunr",
         "hide-element",
         "chapter-fold",
-        "katex",
+        "mathjax-pro",
         "alerts",
         "emphasize",
         "mermaid-gb3",
