@@ -2,7 +2,7 @@
     "plugins": [
         "hide-element",
         "chapter-fold",
-        "mathjax-pro",
+        "katex",
         "alerts",
         "emphasize",
         "mermaid-gb3",
@@ -13,10 +13,5 @@
         "expandable-chapters-interactive",
         "localized-footer",
         "intopic-toc"
-    ],
-    "pluginsConfig": {
-        "lunr": {
-            "maxIndexSize": 200000
-        }
-    }
+    ]
 }
