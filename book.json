@@ -14,5 +14,10 @@
         "expandable-chapters-interactive",
         "localized-footer",
         "intopic-toc"
-    ]
+    ],
+    "pluginsConfig": {
+        "lunr": {
+            "maxIndexSize": 200000
+        }
+    }
 }
